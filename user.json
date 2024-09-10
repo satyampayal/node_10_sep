@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "first_name": "Flor",
+        "last_name": "Logan",
+        "email": "flogan0@bloglovin.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Dasha",
+        "last_name": "Marioneau",
+        "email": "dmarioneau1@weibo.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Martina",
+        "last_name": "Inmett",
+        "email": "minmett2@businessinsider.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Waite",
+        "last_name": "Rikkard",
+        "email": "wrikkard3@vkontakte.ru",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Kania",
+        "last_name": "Nottingam",
+        "email": "knottingam4@topsy.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Bernadine",
+        "last_name": "Arbor",
+        "email": "barbor5@europa.eu",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Philipa",
+        "last_name": "Pescud",
+        "email": "ppescud6@reddit.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Terese",
+        "last_name": "Masselin",
+        "email": "tmasselin7@wikipedia.org",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Elset",
+        "last_name": "Pinnick",
+        "email": "epinnick8@delicious.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Melinda",
+        "last_name": "Ludmann",
+        "email": "mludmann9@amazon.co.uk",
+        "gender": "Female"
+    },
+    {
+        "id": 11,
+        "first_name": "Satyam",
+        "last_name": "payal",
+        "email": "satyam@gmail.com",
+        "gender": "male"
+    }
+]
